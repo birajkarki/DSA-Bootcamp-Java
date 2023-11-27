@@ -1,3 +1,5 @@
+another resources i am following : https://www.youtube.com/watch?v=RJ733wzbNoA&list=PLxgZQoSe9cg00xyG5gzb5BMkOClkch7Gr
+
 # DSA + Interview preparation bootcamp
 - [Join Replit](http://join.replit.com/kunal-kushwaha)
 - Subscribe to the [YouTube channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
